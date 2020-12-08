@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Friendly
+  - SpeedChange
+  - DeathBlock
+  - MovePanel
+  - IngameUI
+  - Wall
+  - Background
+  - Shuriken
+  - Switch
+  - Bomb
+  - BombActivateArea
+  - DestroyableWall
+  - Arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Coin
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackEnd
+    uniqueID: 3611068447
+    locked: 0
+  - name: Back
+    uniqueID: 221744821
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 989938799
+    locked: 0
+  - name: Overlay
+    uniqueID: 131604635
+    locked: 0
+  - name: ExtendOverlay
+    uniqueID: 3830489131
+    locked: 0
+  - name: FinalOverlay
+    uniqueID: 206006593
+    locked: 0
