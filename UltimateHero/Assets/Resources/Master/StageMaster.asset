@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5422a16b06d6e45aa5cf6da596bbfb, type: 3}
+  m_Name: StageMaster
+  m_EditorClassIdentifier: 
+  StageList:
+  - id: 1
+    navMeshData: {fileID: 23800000, guid: d220b29ce45045d4ba4cc8684a0f709a, type: 2}
+    stagePrefab: {fileID: 8702312541563815092, guid: 91f2dbfb356118c48bed1b4db0bc73ec,
+      type: 3}
+  - id: 2
+    navMeshData: {fileID: 23800000, guid: d220b29ce45045d4ba4cc8684a0f709a, type: 2}
+    stagePrefab: {fileID: 8702312541563815092, guid: 91f2dbfb356118c48bed1b4db0bc73ec,
+      type: 3}
+  - id: 3
+    navMeshData: {fileID: 23800000, guid: d220b29ce45045d4ba4cc8684a0f709a, type: 2}
+    stagePrefab: {fileID: 8702312541563815092, guid: 91f2dbfb356118c48bed1b4db0bc73ec,
+      type: 3}
+  - id: 4
+    navMeshData: {fileID: 23800000, guid: d220b29ce45045d4ba4cc8684a0f709a, type: 2}
+    stagePrefab: {fileID: 8702312541563815092, guid: 91f2dbfb356118c48bed1b4db0bc73ec,
+      type: 3}
+  - id: 5
+    navMeshData: {fileID: 23800000, guid: d220b29ce45045d4ba4cc8684a0f709a, type: 2}
+    stagePrefab: {fileID: 8702312541563815092, guid: 91f2dbfb356118c48bed1b4db0bc73ec,
+      type: 3}
