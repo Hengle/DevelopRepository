@@ -1,0 +1,4 @@
+SETUP GUIDE
+1. After you've imported the necessary files to your game project's directory, you should see a folder on your Project tab called ‘Activation Station.’ Open that, then open the ‘Scripts’ folder. Now, you should see two scripts on the Project tab; one named 'ActivationCondition' and the other 'ActivationStation.'
+2. In the Hierarchy tab, you need to either create a new game object, or click on one to select it. Scroll down to the bottommost part of the Inspector tab, then drag and drop the 'ActivationStation' script from the Project tab onto the bottommost part of the Inspector tab, below the 'Add Component' button.
+3. Once you see the 'ActivationStation' script component on your selected game object’s properties (AKA the Inspector tab), you’re all set! This package also contains a 'Test' scene inside the 'Scenes' folder that should be useful to study alongside the tutorial video's instructions.

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2943de7d50114ee4fb0f4f1e41d19ed6, type: 3}
+  m_Name: Combat Text Data
+  m_EditorClassIdentifier: 
+  CombatTextState: 0
+  PlayerTextColor: {r: 0.875, g: 0.8086207, b: 0.59191173, a: 1}
+  PlayerCritTextColor: {r: 1, g: 0, b: 0, a: 1}
+  PlayerTakeDamageTextColor: {r: 1, g: 0.8482759, b: 0, a: 1}
+  AITextColor: {r: 0.875, g: 0.8086207, b: 0.59191173, a: 1}
+  AICritTextColor: {r: 1, g: 0.43448275, b: 0, a: 1}
+  HealingTextColor: {r: 0, g: 1, b: 0, a: 1}
+  TextFont: {fileID: 12800000, guid: 18497ea98e8bd274c8c4e4a88defcca2, type: 3}
+  FontSize: 15
+  MaxFontSize: 8
+  AnimationType: 2
+  PlayerOnly: 1
+  OutlineEffect: 0
+  UseAnimateFontSize: 0
