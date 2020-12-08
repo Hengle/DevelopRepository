@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b44c95984fb0340a7ac1cfdacddc13, type: 3}
+  m_Name: StageMaster
+  m_EditorClassIdentifier: 
+  StageList:
+  - id: 1
+    day: 1
+    task: 1
+    gameType: 0
+    plushDollModel: {fileID: 182663104063907655, guid: b5f0f542351de1348a3dd391894a76e2,
+      type: 3}
+    clientModel: {fileID: 118798, guid: 8ab8dafd9e17d9b4281e639560002602, type: 3}
+    clientSex: 1
+    money: 30
+    sewingPoint: 1
+    accessoryPattern: 0
+  - id: 2
+    day: 1
+    task: 2
+    gameType: 0
+    plushDollModel: {fileID: 592740050079425353, guid: 39011775285374643a80023a99240b40,
+      type: 3}
+    clientModel: {fileID: 178834, guid: ca70370e3245f1249a40aad35700c0af, type: 3}
+    clientSex: 0
+    money: 30
+    sewingPoint: 3
+    accessoryPattern: 0
+  - id: 3
+    day: 1
+    task: 3
+    gameType: 0
+    plushDollModel: {fileID: 6621054790958929485, guid: a2cb891115f9843409f342950af993a7,
+      type: 3}
+    clientModel: {fileID: 164898, guid: 8934a4b9b76708e4c87865df82584118, type: 3}
+    clientSex: 1
+    money: 30
+    sewingPoint: 3
+    accessoryPattern: 0
+  - id: 4
+    day: 2
+    task: 1
+    gameType: 2
+    plushDollModel: {fileID: 182663104063907655, guid: b5f0f542351de1348a3dd391894a76e2,
+      type: 3}
+    clientModel: {fileID: 111834, guid: 8bdf4acc2fa299d4eb87a43bc97b7c22, type: 3}
+    clientSex: 1
+    money: 40
+    sewingPoint: 0
+    accessoryPattern: 0
+  - id: 5
+    day: 2
+    task: 2
+    gameType: 0
+    plushDollModel: {fileID: 592740050079425353, guid: 9db252032338d9d4681fd21724f79a0a,
+      type: 3}
+    clientModel: {fileID: 176896, guid: 9fb982b8e50671b43a6e60fd1bae20e9, type: 3}
+    clientSex: 0
+    money: 30
+    sewingPoint: 1
+    accessoryPattern: 0
+  - id: 6
+    day: 2
+    task: 3
+    gameType: 2
+    plushDollModel: {fileID: 6621054790958929485, guid: a2cb891115f9843409f342950af993a7,
+      type: 3}
+    clientModel: {fileID: 179364, guid: bd014b8a14c67a543927d3c801518be4, type: 3}
+    clientSex: 0
+    money: 40
+    sewingPoint: 0
+    accessoryPattern: 0
+  - id: 7
+    day: 3
+    task: 1
+    gameType: 4
+    plushDollModel: {fileID: 182663104063907655, guid: 8bc3e3d43da2bc748b24a0d5cec86a34,
+      type: 3}
+    clientModel: {fileID: 149574, guid: 9da815c52b4a8b94c95192df7eaf70ab, type: 3}
+    clientSex: 1
+    money: 40
+    sewingPoint: 0
+    accessoryPattern: 0
+  - id: 8
+    day: 3
+    task: 2
+    gameType: 4
+    plushDollModel: {fileID: 1969017194958162548, guid: 28d499f5886ac1348822f07d358b7b39,
+      type: 3}
+    clientModel: {fileID: 196482, guid: 2912433368c94ac4283c712c5e16cc94, type: 3}
+    clientSex: 0
+    money: 40
+    sewingPoint: 0
+    accessoryPattern: 0
+  - id: 9
+    day: 3
+    task: 3
+    gameType: 2
+    plushDollModel: {fileID: 592740050079425353, guid: 39011775285374643a80023a99240b40,
+      type: 3}
+    clientModel: {fileID: 118798, guid: 8ab8dafd9e17d9b4281e639560002602, type: 3}
+    clientSex: 1
+    money: 40
+    sewingPoint: 0
+    accessoryPattern: 0
+  - id: 10
+    day: 4
+    task: 1
+    gameType: 1
+    plushDollModel: {fileID: 6621054790958929485, guid: a2cb891115f9843409f342950af993a7,
+      type: 3}
+    clientModel: {fileID: 178834, guid: ca70370e3245f1249a40aad35700c0af, type: 3}
+    clientSex: 0
+    money: 50
+    sewingPoint: 1
+    accessoryPattern: 101
+  - id: 11
+    day: 4
+    task: 2
+    gameType: 4
+    plushDollModel: {fileID: 592740050079425353, guid: 9db252032338d9d4681fd21724f79a0a,
+      type: 3}
+    clientModel: {fileID: 164898, guid: 8934a4b9b76708e4c87865df82584118, type: 3}
+    clientSex: 1
+    money: 40
+    sewingPoint: 0
+    accessoryPattern: 0
+  - id: 12
+    day: 4
+    task: 3
+    gameType: 1
+    plushDollModel: {fileID: 1969017194958162548, guid: a6f7d38647ce8314295708654e3ed3e2,
+      type: 3}
+    clientModel: {fileID: 111834, guid: 8bdf4acc2fa299d4eb87a43bc97b7c22, type: 3}
+    clientSex: 1
+    money: 50
+    sewingPoint: 1
+    accessoryPattern: 102
+  - id: 13
+    day: 5
+    task: 1
+    gameType: 3
+    plushDollModel: {fileID: 182663104063907655, guid: 8bc3e3d43da2bc748b24a0d5cec86a34,
+      type: 3}
+    clientModel: {fileID: 176896, guid: 9fb982b8e50671b43a6e60fd1bae20e9, type: 3}
+    clientSex: 0
+    money: 50
+    sewingPoint: 0
+    accessoryPattern: 1
+  - id: 14
+    day: 5
+    task: 2
+    gameType: 1
+    plushDollModel: {fileID: 592740050079425353, guid: 39011775285374643a80023a99240b40,
+      type: 3}
+    clientModel: {fileID: 179364, guid: bd014b8a14c67a543927d3c801518be4, type: 3}
+    clientSex: 0
+    money: 50
+    sewingPoint: 1
+    accessoryPattern: 101
+  - id: 15
+    day: 5
+    task: 3
+    gameType: 3
+    plushDollModel: {fileID: 1969017194958162548, guid: 28d499f5886ac1348822f07d358b7b39,
+      type: 3}
+    clientModel: {fileID: 149574, guid: 9da815c52b4a8b94c95192df7eaf70ab, type: 3}
+    clientSex: 1
+    money: 50
+    sewingPoint: 0
+    accessoryPattern: 2
+  - id: 16
+    day: 6
+    task: 1
+    gameType: 3
+    plushDollModel: {fileID: 182663104063907655, guid: b5f0f542351de1348a3dd391894a76e2,
+      type: 3}
+    clientModel: {fileID: 196482, guid: 2912433368c94ac4283c712c5e16cc94, type: 3}
+    clientSex: 0
+    money: 50
+    sewingPoint: 0
+    accessoryPattern: 3
+  - id: 17
+    day: 6
+    task: 2
+    gameType: 4
+    plushDollModel: {fileID: 182663104063907655, guid: 8bc3e3d43da2bc748b24a0d5cec86a34,
+      type: 3}
+    clientModel: {fileID: 111834, guid: 8bdf4acc2fa299d4eb87a43bc97b7c22, type: 3}
+    clientSex: 1
+    money: 40
+    sewingPoint: 0
+    accessoryPattern: 0
+  - id: 18
+    day: 6
+    task: 3
+    gameType: 2
+    plushDollModel: {fileID: 1969017194958162548, guid: a6f7d38647ce8314295708654e3ed3e2,
+      type: 3}
+    clientModel: {fileID: 178834, guid: ca70370e3245f1249a40aad35700c0af, type: 3}
+    clientSex: 0
+    money: 40
+    sewingPoint: 0
+    accessoryPattern: 3

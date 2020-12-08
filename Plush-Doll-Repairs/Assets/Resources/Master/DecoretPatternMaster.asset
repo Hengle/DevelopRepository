@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 447f8245273eff844a26c6df6a97d018, type: 3}
+  m_Name: DecoretPatternMaster
+  m_EditorClassIdentifier: 
+  DecoretPatternList:
+  - id: 1
+    accessoryPosition: 2
+    sprites:
+    - {fileID: 21300000, guid: a37ceb91466168641a91b43e20e5dba8, type: 3}
+    - {fileID: 21300000, guid: 2e13b5f12dfdfa0488cac651f260f4a7, type: 3}
+    - {fileID: 21300000, guid: af1473eaab09a264fa075490493920d4, type: 3}
+    objects:
+    - {fileID: 2445239414701354052, guid: 92a49a223ffe8b84c950fbb576d385f4, type: 3}
+    - {fileID: 2445239414701354052, guid: 21e087a949743354eb1a09d5bdf8fbf5, type: 3}
+    - {fileID: 2445239414701354052, guid: 3010afb390c7c754a9b719846ba04253, type: 3}
+    color:
+    - {r: 0, g: 0, b: 0, a: 1}
+    - {r: 1, g: 0, b: 0.05882353, a: 1}
+    - {r: 0, g: 0.2627451, b: 1, a: 1}
+    subColor: []
+  - id: 2
+    accessoryPosition: 1
+    sprites:
+    - {fileID: 21300000, guid: 7c750eb2fe2a0a4418e4f0c7d70c1cd0, type: 3}
+    - {fileID: 21300000, guid: a53fd872beda72d448351d4590a16708, type: 3}
+    - {fileID: 21300000, guid: 632e63d6ad8d8954ab652b6a9a3ca9f3, type: 3}
+    objects:
+    - {fileID: 7420630319934690163, guid: 2b4ca435469258448ad03d983150b05f, type: 3}
+    - {fileID: 7420630319934690163, guid: b57d0d19ca2d85244b44f700fb9e457f, type: 3}
+    - {fileID: 7420630319934690163, guid: 161531523451933488dd90d1c3b8c150, type: 3}
+    color:
+    - {r: 0, g: 0, b: 0, a: 0.78431374}
+    - {r: 1, g: 1, b: 1, a: 0.78431374}
+    - {r: 1, g: 0.9882353, b: 0, a: 0.78431374}
+    subColor:
+    - {r: 0.24705882, g: 0.21568628, b: 0.19607843, a: 1}
+    - {r: 0.24705882, g: 0.21568628, b: 0.19607843, a: 1}
+    - {r: 0.99607843, g: 0.27058825, b: 1, a: 1}
+  - id: 3
+    accessoryPosition: 0
+    sprites:
+    - {fileID: 21300000, guid: 74dae1df020c590458f0e909211c191a, type: 3}
+    - {fileID: 21300000, guid: 1372bd74c6cbf1246b35c16848a8b09a, type: 3}
+    - {fileID: 21300000, guid: 0f70ff713fa268b4ab07475de529e55e, type: 3}
+    objects:
+    - {fileID: 6926101749141464886, guid: 13ba69da9a0409344880bcd5cb9ce82b, type: 3}
+    - {fileID: 7715888566027677621, guid: 4089c7554f06e3442bc8969a979287ef, type: 3}
+    - {fileID: 7165254268168255358, guid: dd2e77b2e8a09d64b89d2bf497d21caa, type: 3}
+    color: []
+    subColor: []
+  - id: 4
+    accessoryPosition: 0
+    sprites:
+    - {fileID: 21300000, guid: 6afdb00e3044862448b5614cc5ae6dcd, type: 3}
+    - {fileID: 21300000, guid: d091265ef54f7d34f99356c463105ff9, type: 3}
+    - {fileID: 21300000, guid: 7605e78e89db8014eaa22586082be515, type: 3}
+    objects:
+    - {fileID: 6926101749141464886, guid: 98bb11eb07b828343b1de09d32f03c0d, type: 3}
+    - {fileID: 7715888566027677621, guid: eab00b368d1171c499cf5b9c90106247, type: 3}
+    - {fileID: 7165254268168255358, guid: 1edd727a969e8754a92d9fcab148c750, type: 3}
+    color:
+    - {r: 0.8666667, g: 0.85882354, b: 0.47843137, a: 1}
+    - {r: 1, g: 0, b: 0, a: 1}
+    - {r: 0.38431373, g: 0.70980394, b: 0.7254902, a: 1}
+    subColor:
+    - {r: 0.8666667, g: 0.85882354, b: 0.47843137, a: 1}
+    - {r: 0.6117647, g: 0.3764706, b: 1, a: 1}
+    - {r: 0.74509805, g: 0.3372549, b: 0.98039216, a: 1}
+  - id: 5
+    accessoryPosition: 2
+    sprites:
+    - {fileID: 21300000, guid: 4e1bbbd0f3b972a419102059e868d3de, type: 3}
+    - {fileID: 21300000, guid: 24428f4dcf97eb7469570fce89e6db0b, type: 3}
+    - {fileID: 21300000, guid: b971fd553d1d5c840aac653f5401fd25, type: 3}
+    objects:
+    - {fileID: 8088095370022042349, guid: 6a94d21ac332dc64f9a0afc04b529b74, type: 3}
+    - {fileID: 8088095370022042349, guid: ba5d89b742b438349b350da45a52940c, type: 3}
+    - {fileID: 8088095370022042349, guid: 5eab3a9631dd6a44bb18f4e4cd076785, type: 3}
+    color: []
+    subColor: []
+  - id: 101
+    accessoryPosition: 3
+    sprites:
+    - {fileID: 21300000, guid: 90f115eb97809e248839520c3b891384, type: 3}
+    - {fileID: 21300000, guid: 2da8db3d87ab39c42992c95a8a82e0d2, type: 3}
+    - {fileID: 21300000, guid: f9ae8efa82e032f4c93d04c32666c170, type: 3}
+    objects:
+    - {fileID: 8267257825566385755, guid: 2e8c5a9e55030c9438b64863bcd957e9, type: 3}
+    - {fileID: 8267257825566385755, guid: 68a6d8d498147bf4eaa63b049b74a575, type: 3}
+    - {fileID: 8267257825566385755, guid: 207eef45a1616d943b4d898464ab3f46, type: 3}
+    color: []
+    subColor: []
+  - id: 102
+    accessoryPosition: 3
+    sprites:
+    - {fileID: 21300000, guid: 898c68429cb6c774bb4011e80236501a, type: 3}
+    - {fileID: 21300000, guid: 32f75d84224bfe7468e44595157e2384, type: 3}
+    - {fileID: 21300000, guid: 13083aaea65d63b4ca255aa326c02ead, type: 3}
+    objects:
+    - {fileID: 8267257825566385755, guid: a9e7b3a0c066ed142b3501ac41031c19, type: 3}
+    - {fileID: 8267257825566385755, guid: 7da21c9a9af787b48bc07ce139ca8857, type: 3}
+    - {fileID: 8267257825566385755, guid: 8539c63a9af014344bb8c8e2194d0676, type: 3}
+    color: []
+    subColor: []
