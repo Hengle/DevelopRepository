@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBone
+  - PlayerIK
+  - PhysicsStopper
+  - Weapon
+  - RayHitPoint
+  - Character
+  - DamageObject
+  - PlayerHitTrigger
+  - EnemyHitTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CharacterBone
+  - Wall
+  - Character
+  - Weapon
+  - OuterArea
+  - TouchHandler
+  - Reflector
+  - Gimmick
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 539028811
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 747992787
+    locked: 0
+  - name: UI
+    uniqueID: 255018225
+    locked: 0
+  - name: Overlay
+    uniqueID: 773568237
+    locked: 0
+  - name: SystemOverlay
+    uniqueID: 838453353
+    locked: 0

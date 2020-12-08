@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: Idle
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: weist
+    localPosition: {x: 0, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.73083794, w: 0.6825511}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body
+    localPosition: {x: 0.22000536, y: 0.000000014901161, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.03438894, w: 0.99940854}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/head
+    localPosition: {x: 0.53029865, y: 0.000000011190423, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.050364774, w: 0.99873096}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/left_upper_arm
+    localPosition: {x: 0.41832635, y: -0.34216717, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.97807854, w: -0.20823635}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/left_upper_arm/left_arm
+    localPosition: {x: 0.35125393, y: 0.0000001192094, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.46732748, w: 0.88408434}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/left_upper_arm/left_arm/left_hand
+    localPosition: {x: 0.4000001, y: 0.0000001490115, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.42859095, w: 0.90349865}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/right_upper_arm
+    localPosition: {x: 0.39655027, y: 0.32528597, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.95440364, w: -0.29851928}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/right_upper_arm/right_arm
+    localPosition: {x: 0.3799999, y: -0.00000014901161, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.6522341, w: 0.75801766}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/right_upper_arm/right_arm/right_hand
+    localPosition: {x: 0.40000007, y: -0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.30298638, w: 0.9529949}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/left_thigh
+    localPosition: {x: -0.22758898, y: -0.15560864, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.97492605, w: 0.22252925}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/left_thigh/left_shin
+    localPosition: {x: 0.4018893, y: 0.000000055879354, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.37977302, w: 0.92507976}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/left_thigh/left_shin/left_toe
+    localPosition: {x: 0.53116274, y: -0.0000000038104986, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.82010704, w: 0.57221013}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/right_thigh
+    localPosition: {x: -0.23452735, y: 0.12668954, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9925789, w: -0.12160212}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/right_thigh/right_shin
+    localPosition: {x: 0.4000001, y: -0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.33936566, w: 0.9406546}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: weist/body/right_thigh/right_shin/right_toe
+    localPosition: {x: 0.5364297, y: 0.000000003834531, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.8252061, w: 0.56483173}
+    localScale: {x: 1, y: 1, z: 1}

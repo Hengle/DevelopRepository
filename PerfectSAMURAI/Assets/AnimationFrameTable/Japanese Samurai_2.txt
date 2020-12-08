@@ -1,0 +1,9 @@
+15-55      loop   general_idle0
+60-92      loop   general_walk
+97-117     loop   general_run
+
+122-162   loop    battle_idle
+168-203   noloop  battle_attack0
+209-254   noloop  battle_attack1
+260-285   noloop  battle_wound
+290-355   noloop  battle_death

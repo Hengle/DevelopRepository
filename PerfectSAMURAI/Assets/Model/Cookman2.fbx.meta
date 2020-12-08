@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: c00290b3f8427b14b90b85c0debf8b35
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube.001
+    100004: Head
+    100006: Head_end
+    100008: Head_end_end
+    100010: index_01_l
+    100012: index_01_r
+    100014: index_02_l
+    100016: index_02_l_end
+    100018: index_02_l_end_end
+    100020: index_02_r
+    100022: index_02_r_end
+    100024: index_02_r_end_end
+    100026: Left_Arm
+    100028: Left_Clavicle
+    100030: Left_Elbow
+    100032: Left_Foot
+    100034: Left_Foot_end
+    100036: Left_Foot_end_end
+    100038: Left_Hand
+    100040: Left_Hips
+    100042: Left_Knee
+    100044: Middle_Spine
+    100046: Neck_01
+    100048: Pelvis
+    100050: Referee_01_boots
+    100052: Referee_01_knee_socks
+    100054: Referee_01_shorts
+    100056: Referee_01_T_shirt
+    100058: Right_clavicle
+    100060: Right_Elbow
+    100062: Right_Foot
+    100064: Right_Foot_end
+    100066: Right_Foot_end_end
+    100068: Right_Hand
+    100070: Right_Hips
+    100072: Right_Knee
+    100074: Right_upperarm
+    100076: Spine_01
+    100078: Spine_03
+    100080: Stickman_01.c
+    100082: Stickman_03
+    100084: Stickman_03.001
+    100086: thumb_01_l
+    100088: thumb_01_r
+    100090: thumb_02_l
+    100092: thumb_02_l_end
+    100094: thumb_02_l_end_end
+    100096: thumb_02_r
+    100098: thumb_02_r_end
+    100100: thumb_02_r_end_end
+    400000: //RootNode
+    400002: Cube.001
+    400004: Head
+    400006: Head_end
+    400008: Head_end_end
+    400010: index_01_l
+    400012: index_01_r
+    400014: index_02_l
+    400016: index_02_l_end
+    400018: index_02_l_end_end
+    400020: index_02_r
+    400022: index_02_r_end
+    400024: index_02_r_end_end
+    400026: Left_Arm
+    400028: Left_Clavicle
+    400030: Left_Elbow
+    400032: Left_Foot
+    400034: Left_Foot_end
+    400036: Left_Foot_end_end
+    400038: Left_Hand
+    400040: Left_Hips
+    400042: Left_Knee
+    400044: Middle_Spine
+    400046: Neck_01
+    400048: Pelvis
+    400050: Referee_01_boots
+    400052: Referee_01_knee_socks
+    400054: Referee_01_shorts
+    400056: Referee_01_T_shirt
+    400058: Right_clavicle
+    400060: Right_Elbow
+    400062: Right_Foot
+    400064: Right_Foot_end
+    400066: Right_Foot_end_end
+    400068: Right_Hand
+    400070: Right_Hips
+    400072: Right_Knee
+    400074: Right_upperarm
+    400076: Spine_01
+    400078: Spine_03
+    400080: Stickman_01.c
+    400082: Stickman_03
+    400084: Stickman_03.001
+    400086: thumb_01_l
+    400088: thumb_01_r
+    400090: thumb_02_l
+    400092: thumb_02_l_end
+    400094: thumb_02_l_end_end
+    400096: thumb_02_r
+    400098: thumb_02_r_end
+    400100: thumb_02_r_end_end
+    2100000: Material.002
+    2100002: Material.001
+    2100004: Material.005
+    2100006: Material.007
+    2100008: Material.008
+    2300000: Cube.001
+    2300002: Stickman_03.001
+    3300000: Cube.001
+    3300002: Stickman_03.001
+    4300000: Cube.001
+    4300002: Stickman_03.001
+    4300004: Stickman_03
+    4300006: Referee_01_T_shirt
+    4300008: Referee_01_shorts
+    4300010: Referee_01_boots
+    4300012: Referee_01_knee_socks
+    9500000: //RootNode
+    13700000: Referee_01_boots
+    13700002: Referee_01_knee_socks
+    13700004: Referee_01_shorts
+    13700006: Referee_01_T_shirt
+    13700008: Stickman_03
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
