@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5422a16b06d6e45aa5cf6da596bbfb, type: 3}
+  m_Name: DrugMaster
+  m_EditorClassIdentifier: 
+  drugList:
+  - id: 1
+    drugType: 0
+    material: {fileID: 2100000, guid: 8178aa319108e1a4f835cb48c1019c49, type: 2}
+  - id: 2
+    drugType: 1
+    material: {fileID: 2100000, guid: 9bf3d1c0462c6d142a00110d18172fa1, type: 2}
+  - id: 3
+    drugType: 2
+    material: {fileID: 2100000, guid: 2094cedaa23459e43ad45cdc5fe88cf1, type: 2}
+  - id: 4
+    drugType: 3
+    material: {fileID: 2100000, guid: 9000ac8ce2949c1409530ea78ff44e79, type: 2}
+  - id: 5
+    drugType: 4
+    material: {fileID: 2100000, guid: ee177db8ff375de408686aff5292ac2d, type: 2}
+  drug: {fileID: 3240410350964091976, guid: 886f8e666b408264eade78e82ebf7b46, type: 3}
